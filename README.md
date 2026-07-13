@@ -1,5 +1,7 @@
 # churn-uplift
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshay-birla-03/churn-uplift/blob/main/notebooks/Run_in_Colab.ipynb)
+
 **Causal / uplift modeling toolkit for retention marketing.**
 
 Most churn projects predict *who will leave*. That is the wrong question for a
